@@ -1,0 +1,9 @@
+.value {
+  display: flex;
+  padding: 10px;
+}
+
+.value button {
+  margin: 10px;
+  width: 28px;
+}
